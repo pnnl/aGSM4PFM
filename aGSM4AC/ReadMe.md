@@ -143,7 +143,7 @@ Close the application window normally.
 
 ```
 build/
-└── PFMApp4AC_v3.exe
+└── PFMApp4AC.exe
 
 src/
  └── main_program.m
