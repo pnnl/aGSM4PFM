@@ -3,7 +3,8 @@
 
 <img width="500" alt="Allan-Cahn Simulation" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Ani_AC.gif">  
 <img width="500" alt="Cahn-Hillard Simulation" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Ani_CH.gif">  
-**Figure 1:** Animations of aGSM simulation for Allan-Cahn equation (left) and Cahn-Hillard equation (right).  
+
+**Figure 1:**: Animations of aGSM simulation for Allan-Cahn equation (left) and Cahn-Hillard equation (right).  
 
 ---
 
@@ -20,12 +21,14 @@ This repository provides a high-performance numerical solver leveraging the [Gra
 
 ### **Performance Comparison**  
 <img width="600" alt="Performance Metrics" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Performance.png">  
+
 **Figure 2:** Accuracy (a) and Computational Complexity (b) of aGSM compared to Finite Difference Method (FDM) and FEM-based software (MOOSE).  
 
 ---
 
 ### **Mesh Adaptation**  
 <img width="600" alt="Mesh Comparison" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/PF-mesh.png">  
+
 **Figure 3:** Meshes used in computation for cases with different interface thickness (a). Comparison between FDM (b), aGSM (c), and MOOSE (d).  
 
 ---
