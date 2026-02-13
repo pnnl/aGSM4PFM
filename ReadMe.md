@@ -37,7 +37,7 @@ The repository contains MATLAB source code implementing aGSM for solving phase f
 
 **Usage:**  
 - **MATLAB License Required:** You will need a MATLAB license to run the provided scripts.  
-- **Executable File Available:** For users without access to MATLAB, a standalone executable file is provided, enabling exploration of the algorithm.  
+- **Executable File Available:** For users without access to MATLAB, a standalone executable file is provided, enabling exploration of the algorithm. (Please download and install the MyAppInstaller.exe before running the standalone file) 
 
 ---
 
