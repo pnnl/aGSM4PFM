@@ -20,14 +20,14 @@ This repository provides a high-performance numerical solver leveraging the [Gra
 ---
 
 ### **Performance Comparison**  
-<img width="600" alt="Performance Metrics" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Performance.png">  
+<img width="800" alt="Performance Metrics" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Performance.png">  
 
 **Figure 2:** Accuracy (a) and Computational Complexity (b) of aGSM compared to Finite Difference Method (FDM) and FEM-based software (MOOSE).  
 
 ---
 
 ### **Mesh Adaptation**  
-<img width="600" alt="Mesh Comparison" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/PF-mesh.png">  
+<img width="800" alt="Mesh Comparison" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/PF-mesh.png">  
 
 **Figure 3:** Meshes used in computation for cases with different interface thickness (a). Comparison between FDM (b), aGSM (c), and MOOSE (d).  
 
