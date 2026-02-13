@@ -1,9 +1,9 @@
 # aGSM4PFM
 
-# Nearest Neighboring Particles Searching (NNPS) algorithms for Smoothed Particle Hydrodynamics method
-This algorithm serves as an efficient neighbors searching operator that can be easily integrated into the Smoohthed Particle Hydrodynamics (SPH) method. This algorithm is designed to utilize low-precision float-point 16 computation on GPU for efficiency purpose. To maintain the NNPS accuracy while using the low-precision FP16 computation, a cell-based relative coordinate link list (RCLL) algorithm is developed.
+<img width="1178" alt="image" src="[Figures/Ani_AC.gif](https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Ani_AC.gif)">
 
-The RCLL algorithms exhibits a 1.5x efficiency improvement over the standard FP64 GPU computation, and its efficiency can be further boosted by 2.7x through optimizing GPU memory bandwidth utilization.
+# Adaptive Gradient Smoothing Method for Phase Field Modeling
+This repository offers a high-performance numerical solver utilizing the Gradient Smoothing Method (GSM) combined with adaptive remeshing of structured meshes for efficient Phase Field modeling of interface dynamics. The solver achieves general second-order accuracy and features a computational complexity of O(N), meaning the calculation time scales linearly with the number of elements. Numerical experiments demonstrate that the solver consistently outperforms existing weak-form Finite Element Method (FEM)-based software (including adaptive mesh approaches) across all test cases. Additionally, it provides significant advantages over traditional uniform-mesh-based strong-form Finite Difference methods, particularly for large-scale problems with thin interface.
 
 
 ## Source code
@@ -24,7 +24,7 @@ To run it, using: ./SPH_RCLL_GPU_FP*
 
 
 ## Authors
-[Zirui Mao](zirui.mao@pnnl.gov) (PNNL)
+[Zirui Mao] (PNNL)  zirui.mao@pnnl.gov
 
 ## Citation
 Please cite our [Paper](to be filled later).
