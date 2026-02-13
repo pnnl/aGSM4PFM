@@ -53,6 +53,23 @@ To use the code, follow these steps:
 
 ---
 
+## 📁 Project Structure
+
+```
+aGSM4PFM
+└── aGSM4AC/
+    └── build
+        └── PFMAPP4AC.exe (standalone file)
+    └── src
+        └── main_program.m (source code)
+└── aGSM4CH/
+   └── build
+       └── PFMAPP4CH.exe (standalone file)
+   └── src
+    └── main_program.m (source code)
+```
+
+
 ## **Authors**
 [**Zirui Mao**](https://maozirui.github.io/)  
 Pacific Northwest National Laboratory (PNNL)  
