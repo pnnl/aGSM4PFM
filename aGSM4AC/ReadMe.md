@@ -7,7 +7,8 @@ $$
 $$
 
 The software provides a graphical interface for configuring simulation parameters, running adaptive mesh simulations, and exporting animations of phase evolution.
-<img width="400" alt="Allan-Cahn Simulation" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Panel_AC.png">  
+
+<img width="800" alt="Allan-Cahn Simulation" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Panel_AC.png">  
 
 ---
 
