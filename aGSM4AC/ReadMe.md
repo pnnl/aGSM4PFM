@@ -2,9 +2,9 @@
 
 **aGSM4AC** is an adaptive mesh simulation framework for solving the Allen–Cahn phase-field equation:
 
-[
+$$
 \frac{\partial \phi}{\partial t} = -(\phi^3 - \phi) + \kappa \nabla^2 \phi
-]
+$$
 
 The software provides a graphical interface for configuring simulation parameters, running adaptive mesh simulations, and exporting animations of phase evolution.
 
