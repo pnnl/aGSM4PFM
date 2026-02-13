@@ -24,7 +24,7 @@ To run it, using: ./SPH_RCLL_GPU_FP*
 
 
 ## Authors
-(Zirui Mao)[zirui.mao@pnnl.gov] (PNNL)
+[Zirui Mao](zirui.mao@pnnl.gov) (PNNL)
 
 ## Citation
 Please cite our [Paper](to be filled later).
