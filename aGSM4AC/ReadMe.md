@@ -24,16 +24,18 @@ The software provides a graphical interface for configuring simulation parameter
 
 ## 📦 Installation
 
-### Option A — Without MATLAB (Recommended)
+### Option A — Without MATLAB
 
 1. Download the compiled release package.
 2. Double-click:
 
 ```
-MyAppInstaller.exe
+[MyAppInstaller.exe](https://github.com/pnnl/aGSM4PFM/blob/master/MyAppInstaller.exe)
 ```
 
 3. Follow the installer instructions.
+
+4. Navigate to build/PFMApp4AC.exe
 
 ✅ MATLAB is **NOT required**.
 The installer automatically installs all necessary runtime components.
@@ -45,16 +47,15 @@ The installer automatically installs all necessary runtime components.
 1. Navigate to:
 
 ```
-release/build/
+release/src/
 ```
 
 2. Launch:
 
 ```
-PFMApp4AC_v3.exe
+main_program.m
 ```
 
-MATLAB is **not required at runtime**, but having MATLAB installed is compatible.
 
 ---
 
