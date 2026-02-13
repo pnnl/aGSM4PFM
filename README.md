@@ -9,7 +9,7 @@ This repository offers a high-performance numerical solver utilizing the [Gradie
 
 <img width="600" alt="image" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Performance.png">
 
-<img width="600" alt="image" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/PF-Mesh.png">
+<img width="600" alt="image" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/PF-mesh.png">
 
 
 ## Source code
