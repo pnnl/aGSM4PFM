@@ -92,6 +92,15 @@ If you use this code or find it helpful, please cite our upcoming publication:
 This project is licensed under the **BSD License**.  
 Refer to the [license file](https://github.com/pnnl/lpNNPS4SPH/blob/master/LICENSE.txt) for more details.  
 
+By using this freeware, you are agree to the following:    
+   1. you are free to copy and redistribute the material in any medium or format.
+   2. you are free to remix, transform, and build upon the material for any personal purpose.
+   3. you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a  
+      disclaimer notice, and a link to the material.
+   4. users are entirely at their own risk using this freeware and techniques. 
+ 
+ Before use, please read the License carefully.
+
 ---
 
 ## **Acknowledgments**
