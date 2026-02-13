@@ -29,9 +29,8 @@ The software provides a graphical interface for configuring simulation parameter
 1. Download the compiled release package.
 2. Double-click:
 
-```
 [MyAppInstaller.exe](https://github.com/pnnl/aGSM4PFM/blob/master/MyAppInstaller.exe)
-```
+
 
 3. Follow the installer instructions.
 
