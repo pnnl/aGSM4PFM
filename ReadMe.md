@@ -3,7 +3,7 @@
 
 <img width="400" alt="Allan-Cahn Simulation" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Ani_AC.gif">   <img width="400" alt="Cahn-Hillard Simulation" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Ani_CH.gif">  
 
-**Figure 1:**: Animations of aGSM simulation for Allan-Cahn equation (left) and Cahn-Hillard equation (right).  
+**Figure 1:** Animations of aGSM simulation for Allan-Cahn equation (left) and Cahn-Hillard equation (right).  
 
 ---
 
