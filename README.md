@@ -14,24 +14,12 @@ Fig. 2 Accuracy (a) and computational complexities (b) of aGSM compared to Finit
 Fig. 3 The meshes used in FDM(b), aGSM(c), and MOOSE(d) in computation for the cases with difference interface thickness (a).
 
 ## Source code
-**1: CPU code of all-list NNPS algorithm**
-
-
-The source code 'SPH_RCLL_GPU_FP16_sort.cu' is a optimized version of the 'SPH_RCLL_GPU_FP16.cu'. It sorts the particles based on their spatial distribution. 
-
-In this way, the GPU memory bandwidth can be utilized more effectively in GPU parallel computation.
-
-To compile the CUDA code on GPUs, using: nvcc SPH_RCLL_GPU_FP*.cu -o SPH_RCLL_GPU_FP* -arc=sm_80 -use_fast_math
-
-TO compile the optimized FP16 code, using: ncvv --extended-lambda -std=c++14 -arch=sm_80  SPH_RCLL_GPU_FP16_sort.cu -o SPH_RCLL_GPU_FP16
-
-To run it, using: ./SPH_RCLL_GPU_FP*
-
+The Matlab source code that implements aGSM for solving the phase field equations, including A-C and C-H models are stored. Note that, Matlab license is needed to run the source code. To make it more accessible to users without license, an executible file is provided as well to allow exploring the algorithm freely.  
 
 
 
 ## Authors
-[Zirui Mao] (PNNL)  zirui.mao@pnnl.gov
+[Zirui Mao](https://maozirui.github.io/) (PNNL)  zirui.mao@pnnl.gov
 
 ## Citation
 Please cite our [Paper](to be filled later).
