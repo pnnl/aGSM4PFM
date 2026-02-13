@@ -1,6 +1,6 @@
 # aGSM4PFM
 
-<img width="500" alt="image" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Ani_AC.gif">
+<img width="500" alt="image" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Ani_AC.gif"> <img width="500" alt="image" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Ani_CH.gif">
 
 # Adaptive Gradient Smoothing Method for Phase Field Modeling
 This repository offers a high-performance numerical solver utilizing the Gradient Smoothing Method (GSM) combined with adaptive remeshing of structured meshes for efficient Phase Field modeling of interface dynamics. The solver achieves general second-order accuracy and features a computational complexity of O(N), meaning the calculation time scales linearly with the number of elements. Numerical experiments demonstrate that the solver consistently outperforms existing weak-form Finite Element Method (FEM)-based software (including adaptive mesh approaches) across all test cases. Additionally, it provides significant advantages over traditional uniform-mesh-based strong-form Finite Difference methods, particularly for large-scale problems with thin interface.
