@@ -80,7 +80,7 @@ This work is supported by the **PNNL LDRD Project** and utilized resources from 
 ---
 
 ### **Feedback & Contributions**
-We welcome feedback, issues, or improvements. Feel free to open issues or submit pull requests to enhance the features or usability of this solver.
+We welcome feedback, issues, or improvements.
 
 ---
 
