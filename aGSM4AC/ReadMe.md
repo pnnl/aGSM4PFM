@@ -139,15 +139,14 @@ Close the application window normally.
 
 ---
 
-## 📁 Project Structure (Example)
+## 📁 Project Structure
 
 ```
-release/
- └── build/
-     └── PFMApp4AC_v3.exe
+build/
+└── PFMApp4AC_v3.exe
 
-installer/
- └── MyAppInstaller.exe
+src/
+ └── main_program.m
 ```
 
 ---
@@ -162,55 +161,13 @@ installer/
 
 ---
 
-## 📚 Citation (Suggested Placeholder)
 
-If you use **aGSM4AC** in academic work, please cite:
-
-```
-[Author Names], "Adaptive GSM Framework for Allen–Cahn Phase Field Modeling",
-Journal/Conference, Year.
-```
-
----
-
-## 📄 License
-
-Specify your project license here:
-
-```
-MIT / BSD / GPL / Institutional License
-```
-
----
 
 ## 🤝 Contributing
 
 Contributions are welcome:
 
 * Bug reports
-* Feature requests
 * Algorithm improvements
 * Documentation enhancements
-
 ---
-
-## 🧑‍💻 Contact
-
-Project Maintainer:
-
-* Name: [Your Name]
-* Institution: [Your Institution]
-* Email: [your-email]
-
----
-
-If you want, I can also:
-
-* Convert this into a **high-impact research-software README style** (common for JCP/JOSS repos)
-* Add **badges** (build, DOI, license, MATLAB runtime, releases)
-* Create a **developer + user dual README**
-* Generate a **paper-ready software documentation structure**
-* Add a **theory section explaining aGSM vs AMR vs phase-field numerics**
-
-Just tell me 👍.
-
