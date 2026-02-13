@@ -1,7 +1,3 @@
-Here's the refined version of the `README.md` with improved structure, layout, and formatting to make it professional and visually appealing. 
-
----
-
 # **aGSM4PFM**  
 ### Adaptive Gradient Smoothing Method for Phase Field Modeling  
 
@@ -86,4 +82,3 @@ We welcome feedback, issues, or improvements. Feel free to open issues or submit
 
 ---
 
-This improved `README.md` structure focuses on professionalism, readability, and visual hierarchy with clear sections. Let me know if you'd like additional refinements!
