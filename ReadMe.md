@@ -28,7 +28,7 @@ This repository provides a high-performance numerical solver leveraging the [Gra
 ### **Mesh Adaptation**  
 <img width="850" alt="Mesh Comparison" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/PF-mesh.png">  
 
-**Figure 3:** Meshes used in computation for cases with different interface thickness (a). Comparison between FDM (b), aGSM (c), and MOOSE (d).  
+**Figure 3:** Meshes used in computation for cases with different interface thickness (a). Meshes of FDM (b), aGSM (c), and MOOSE (d).  
 
 
 <img width="850" alt="HAMR" src="https://github.com/pnnl/aGSM4PFM/blob/master/Figures/Adaptive-nlevel.png">  
