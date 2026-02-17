@@ -14,7 +14,7 @@ This repository provides a high-performance numerical solver leveraging the [Gra
 - **Second-Order Accuracy:** Achieves general 2nd-order accuracy across computations.  
 - **Linear Computational Complexity:** Scales as **O(N)**, meaning runtime increases linearly with the number of elements.  
 - **Superior Performance:** Outperforms weak-form Finite Element Method (FEM)-based software with adaptive mesh approaches.  
-- **Efficient for Large-Scale Problems:** Exhibits significant advantages over uniform structured strong-form Finite Difference Methods (FDM), especially for thin interfaces or large-scale simulations.  
+- **Efficient for Large-Scale Problems:** Exhibits significant advantages over strong-form Finite Difference Methods (FDM), especially for thin interfaces or large-scale simulations.  
 
 ---
 
