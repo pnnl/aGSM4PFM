@@ -28,13 +28,13 @@ From the repository directory:
 ```bash
 python main_program.py
 ```
-This will generate an animated GIF (see output path/message printed by the script).
+This will generate an animated GIF.
 
 ---
 
 ## Configuration / Simulation Parameters
 
-Key parameters are defined in **`main_program.py` (approximately lines 15–25)**.
+Key parameters are defined in **`main_program.py` (lines 15–25)**.
 
 ### Coarsest mesh resolution (`N`)
 - Number of grid points in one spatial direction.
