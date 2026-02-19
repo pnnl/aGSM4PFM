@@ -21,7 +21,7 @@ A major contribution to this python code comes from an outstanding high student 
 
 ### Requirements
 - Python 3.x  
-- Common packages (e.g., `numpy`, `matplotlib`) as used in the scripts
+- Packages requirements: numpy, matplotlib, scipy, math, trimesh, imageio, io, as used in the scripts
 
 ### Run
 From the repository directory:
@@ -70,4 +70,3 @@ Please open an issue or submit a pull request.
 
 --- 
 
-If you want, I can also add sections for **License**, **Citation**, and **Repository structure** (files/folders) once you tell me what license you plan to use and whether there’s a preferred citation format.
