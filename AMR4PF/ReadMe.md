@@ -1,8 +1,8 @@
 # AMR4PF — Adaptive Mesh Refinement (AMR) Demo for Phase-Field Interface Tracking
 
-**AMR4PF** is a Python demo that showcases a hierarchical **adaptive mesh refinement (AMR)** strategy for interface tracking inspired by phase-field modeling. The example tracks the motion of a circular interface (a *toy problem*; not a full physical phase-field simulation) to illustrate refinement behavior and performance.
+**AMR4PF** is a Python demo that showcases a hierarchical **adaptive mesh refinement (AMR)** strategy for interface tracking for phase-field modeling. The example tracks the motion of a circular interface (a *toy problem*; not a full physical phase-field simulation) to illustrate refinement behavior and performance.
 
-A major contribution to this repository comes from **Alice Xu** (Hanford High School), who translated the original MATLAB implementation into Python to improve accessibility and remove proprietary license requirements.
+A major contribution to this python code comes from an outstanding high student intern **Alice Xu**, who translated the original MATLAB implementation into Python to improve accessibility and remove proprietary license requirements.
 
 <p align="center">
   <img width="700" alt="AMR4PF interface tracking animation" src="https://github.com/pnnl/aGSM4PFM/blob/master/AMR4PF/result.gif">
