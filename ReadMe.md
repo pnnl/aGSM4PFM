@@ -38,7 +38,7 @@ This repository provides a high-performance numerical solver leveraging the [Gra
 ---
 
 ## **Source Code**
-The repository contains MATLAB source code implementing aGSM for solving phase field equations, including Allan-Cahn (A-C) and Cahn-Hillard (C-H) models.  
+The repository contains MATLAB source code implementing aGSM for solving phase field equations, including Allan-Cahn (A-C) and Cahn-Hillard (C-H) models. A python version is also provided for the adaptive mesh refiment algorithm applied to tracking moving interface.
 
 **Usage:**  
 - **MATLAB License Required:** You will need a MATLAB license to run the provided scripts.  
@@ -62,6 +62,8 @@ To use the code, follow these steps:
 
 ```
 aGSM4PFM
+└── AMR4PF/
+    └── main_program.py (python script)
 └── aGSM4AC/
     └── build
         └── PFMAPP4AC.exe (standalone file)
