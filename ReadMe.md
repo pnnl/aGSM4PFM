@@ -92,7 +92,7 @@ If you use this code or find it helpful, please cite our upcoming publication:
 
 ## **License**
 This project is licensed under the **BSD License**.  
-Refer to the [license file](https://github.com/pnnl/lpNNPS4SPH/blob/master/LICENSE.txt) for more details.  
+Refer to the [license file](https://github.com/pnnl/aGSM4PFM/LICENSE.txt) for more details.  
 
 By using this freeware, you are agree to the following:    
    1. you are free to copy and redistribute the material in any medium or format.
