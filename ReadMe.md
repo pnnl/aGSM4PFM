@@ -82,9 +82,9 @@ aGSM4PFM
 Pacific Northwest National Laboratory (PNNL)  
 📧 zirui.mao@pnnl.gov  
  
-[** Alice Xu**] \\
- High school student \\
- Hanford High School, Richland, WA
+[**Alice Xu**]  
+High school student
+Hanford High School, Richland, WA
  
 ---
 
